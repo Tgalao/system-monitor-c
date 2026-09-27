@@ -1,6 +1,6 @@
 # System Monitor (C)
 
-A command-line system monitor written in C, built as a portfolio project to demonstrate systems programming and understanding of how computers work under the hood.
+A command-line system monitor written in C, built to demonstrate systems programming and understanding of how computers work under the hood.
 
 ## Example output
 
